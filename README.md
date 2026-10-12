@@ -19,8 +19,8 @@ Python 3.x installed on your system.
 
 Steps
 1.Clone the repository:
-git clone https://github.com/nishith2529-debug/DecodeLabs-Internship.git
-cd DecodeLabs-Internship
+git clone https://github.com/nishith2529-debug/Todo_list.git
+cd Todo_list
 
 2.Run the application:
 python todo_list.py
