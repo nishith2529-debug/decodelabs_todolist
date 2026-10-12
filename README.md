@@ -1,4 +1,4 @@
-                                      Todo_list
+                                                              ✅Todo_list
 Description:
 A light-weight command-line interface (CLI) To-Do List application built in Python to help manage daily tasks efficiently. The application allows users to create, view, update, and remove tasks directly from the terminal, keeping track of work with status indicators (e.g., Pending / Completed) and persistent storage.
 
